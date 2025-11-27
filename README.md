@@ -23,6 +23,7 @@ The entire workflow is documented in the Jupyter Notebook.
 
 ## 2. Folder Structure
 
+<pre>
 Team_AOT/
 │
 ├── code/
@@ -54,6 +55,7 @@ Team_AOT/
 ├── Team_AOT_project.ipynb
 ├── README.md
 └── requirements.txt
+</pre>
 
 
 ---
