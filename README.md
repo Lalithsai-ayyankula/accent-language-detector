@@ -169,7 +169,9 @@ All experiment outputs are stored in the `outputs/` directory.
 ## 10. Contributors
 Team AOT  
 AYYANKULA LALITH SAI KUMAR
+
 GARIKIPATI BABY DHANUSHA
+
 MAASA KEERTHI
 
 ---
