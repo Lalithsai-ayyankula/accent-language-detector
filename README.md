@@ -166,7 +166,7 @@ All experiment outputs are stored in the `outputs/` directory.
 
 ---
 
-## 10. Contributors
+## 10. TEAM MEMBERS
 Team AOT  
 AYYANKULA LALITH SAI KUMAR
 
@@ -176,6 +176,8 @@ MAASA KEERTHI
 
 ---
 
+## Project Repository
+👉 
 
 
 
