@@ -24,7 +24,8 @@ The entire workflow is documented in the Jupyter Notebook.
 ## 2. Folder Structure
 
 Team_AOT/
-│── code/
+│
+├── code/
 │   ├── app_cuisine_recommender.py
 │   ├── datasets.py
 │   ├── evaluate.py
@@ -37,22 +38,23 @@ Team_AOT/
 │   ├── train_mfcc.py
 │   └── word_sentence_analysis.py
 │
-│── models/
+├── models/
 │   ├── best_cnn_mfcc.pth
 │   ├── best_hubert_clf.pth
 │   ├── hubert_classifier.joblib
 │   └── mfcc_cnn.pth
 │
-│── outputs/
+├── outputs/
 │   ├── predictions.csv
 │   ├── confusion_matrix.png
 │   ├── classification_report.txt
 │   ├── layerwise_results.json
 │   └── mfcc_vs_hubert_results.csv
 │
-│── Team_AOT_project.ipynb
-│── README.md
+├── Team_AOT_project.ipynb
+├── README.md
 └── requirements.txt
+
 
 ---
 
