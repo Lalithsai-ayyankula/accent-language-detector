@@ -25,30 +25,30 @@ The entire workflow is documented in the Jupyter Notebook.
 
 Team_AOT/
 │── code/
-│ ├── app_cuisine_recommender.py
-│ ├── datasets.py
-│ ├── evaluate.py
-│ ├── inference_child_audio.py
-│ ├── layerwise_analysis.py
-│ ├── models.py
-│ ├── preprocess.py
-│ ├── random_split_baseline.py
-│ ├── train_hubert.py
-│ ├── train_mfcc.py
-│ └── word_sentence_analysis.py
+│   ├── app_cuisine_recommender.py
+│   ├── datasets.py
+│   ├── evaluate.py
+│   ├── inference_child_audio.py
+│   ├── layerwise_analysis.py
+│   ├── models.py
+│   ├── preprocess.py
+│   ├── random_split_baseline.py
+│   ├── train_hubert.py
+│   ├── train_mfcc.py
+│   └── word_sentence_analysis.py
 │
 │── models/
-│ ├── best_cnn_mfcc.pth
-│ ├── best_hubert_clf.pth
-│ ├── hubert_classifier.joblib
-│ └── mfcc_cnn.pth
+│   ├── best_cnn_mfcc.pth
+│   ├── best_hubert_clf.pth
+│   ├── hubert_classifier.joblib
+│   └── mfcc_cnn.pth
 │
 │── outputs/
-│ ├── predictions.csv
-│ ├── confusion_matrix.png
-│ ├── classification_report.txt
-│ ├── layerwise_results.json
-│ └── mfcc_vs_hubert_results.csv
+│   ├── predictions.csv
+│   ├── confusion_matrix.png
+│   ├── classification_report.txt
+│   ├── layerwise_results.json
+│   └── mfcc_vs_hubert_results.csv
 │
 │── Team_AOT_project.ipynb
 │── README.md
