@@ -1,0 +1,14 @@
+torch
+torchaudio
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+transformers
+datasets
+joblib
+gradio
+soundfile
+tqdm
